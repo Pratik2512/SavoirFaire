@@ -10,7 +10,7 @@ export default {
   theme: {
     extend: {
       daisyui: {
-        themes: ["light", "dark", "cupcake","dracula","sunset"],
+        themes: ["light", "dark", "cupcake","dracula","nord"],
       },
     }
   },
